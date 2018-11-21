@@ -40,8 +40,8 @@ WebTestClient를 사용하기 위해서는 Web Flux를 주입받아야한다.
 Maven
 ```markdown
 <dependency>
-    <groupId>org.springframework</groupId>
-    <artifactId>spring-webflux</artifactId>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-webflux</artifactId>
 </dependency>
 ```
 
